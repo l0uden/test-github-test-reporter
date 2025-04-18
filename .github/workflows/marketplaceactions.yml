@@ -1,4 +1,4 @@
-name: Secure Action Scan - Markdown to Confluence Sync
+name: Secure Action Scan - GitHub Test Reporter
 
 on:
   workflow_dispatch: {}
